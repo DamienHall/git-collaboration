@@ -11,7 +11,6 @@ Collaborators: _________________
 3. Create a new file, `apples.txt`. Add one item granny smith in it.
 4. In your terminal type `git status`:
     - If it is not already, `git status` should become one of your favorite and most used git commands. It gives you a lot of information, including which branch you are on (more about branches soon), and information about the state of files that have been modified since the last commit.
-
 5. You should see both your `README.md` and `apples.txt` files listed in red. This means they have not yet been staged to be included in the next commit. 
 6. You should notice that they are listed in different sections. README.md is in a category called "Changes not staged for commit" while apples.txt is under "Untracked files". What’s the difference between “unstaged” and “untracked” files?
 
